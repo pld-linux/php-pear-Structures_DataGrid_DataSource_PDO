@@ -7,7 +7,7 @@ Summary:	%{_pearname} - DataSource driver using PHP Data Objects (PDO) and an SQ
 Summary(pl.UTF-8):	%{_pearname} - sterownik DataSource korzystający z PHP Data Objects (PDO) i zapytań SQL
 Name:		php-pear-%{_pearname}
 Version:	0.1.0
-Release:	0.1
+Release:	1
 License:	New BSD
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
