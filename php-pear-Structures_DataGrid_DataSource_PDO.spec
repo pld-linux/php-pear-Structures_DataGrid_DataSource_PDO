@@ -28,8 +28,8 @@ Objects (PDO) and an SQL query.
 In PEAR status of this package is: %{_status}.
 
 %description -l pl.UTF-8
-Pakiet ten dostarcza sterownik DataSource korystający z obiektów
-danych PHP (ang. PHP Data Objects) - PDO i zapytań języka SQL.
+Pakiet ten dostarcza sterownik DataSource korzystający z obiektów
+danych PHP (PDO, czyli PHP Data Objects) i zapytań języka SQL.
 
 Ta klasa ma w PEAR status: %{_status}.
 
