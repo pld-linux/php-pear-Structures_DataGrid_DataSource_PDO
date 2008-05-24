@@ -16,7 +16,6 @@ URL:		http://pear.php.net/package/Structures_DataGrid_DataSource_PDO/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
 Requires:	php-pear
-Requires:	php-pear-PEAR >= 1.6.0
 Requires:	php-pear-Structures_DataGrid >= 0.8.4
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
