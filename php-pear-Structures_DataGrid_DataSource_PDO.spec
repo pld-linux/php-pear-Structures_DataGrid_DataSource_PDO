@@ -9,7 +9,7 @@ Release:	1
 License:	New BSD
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{pearname}-%{version}.tgz
-# Source0-md5:	b61246f5944312afe7ca244a2fa70705
+# Source0-md5:	b4192567c0c5ce141347056baefb3a43
 URL:		http://pear.php.net/package/Structures_DataGrid_DataSource_PDO/
 BuildRequires:	php-pear-PEAR >= 1:1.6.0
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
