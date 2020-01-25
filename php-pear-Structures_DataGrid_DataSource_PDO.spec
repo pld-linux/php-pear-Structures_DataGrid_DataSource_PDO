@@ -1,6 +1,5 @@
 %define		status		beta
 %define		pearname	Structures_DataGrid_DataSource_PDO
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - DataSource driver using PHP Data Objects (PDO) and an SQL query
 Summary(pl.UTF-8):	%{pearname} - sterownik DataSource korzystający z PHP Data Objects (PDO) i zapytań SQL
 Name:		php-pear-%{pearname}
